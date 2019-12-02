@@ -1,0 +1,2 @@
+This project is build using c#.net, microsoft face API and mysql.
+This app takes a picture of the user and recognises the emotion from that and then based on the emotion it suggests a list of song to the user.
